@@ -1,0 +1,8 @@
+body{background: #efefef url(fone.jpg); margin: 0; padding: 0; /*foneRED.jpg*/
+font: 16px/24px Arial, Tahoma, sans-serif; color: #272727;} /*#272727*/
+a{text-decoration: none;}
+
+div.textFALSE{text-align: center; color: #ff0000; font-size: 100px;}
+div.textTRUE{text-align: center; color: #00c307; font-size: 100px;}
+.passport{text-align:center;}
+.vodprava{text-align: left;}
